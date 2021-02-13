@@ -1,3 +1,5 @@
+#FACE RECOGNITION ATTENDANCE REGISTER APPLICATION
+
 Welcome to the Repository
 
 The Application had datasets of images in the "Images" folder that has all the stored images to check for attendance.
